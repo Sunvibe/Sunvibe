@@ -7,9 +7,11 @@
 
 ##### Things to do:
 * 2022-10-09
-* [ ] Basic unterstanding of github and features
-* [ ] Create test repo for a python web service (simple API)
-* [ ] Figure out how to deploy to private vps
+* [x] Basic unterstanding of github and features
+* [*] Create test repo for a python web service (simple API) (WIP)
+* [*] Figure out how to deploy to private vps (WIP)
+* [ ] Dig deepter into github actions with building images for deploying to vps
+
 <!---
 Sunvibe/Sunvibe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
